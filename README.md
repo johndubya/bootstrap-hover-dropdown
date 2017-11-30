@@ -50,7 +50,7 @@ Just like in Bootstrap you can activate it without any JavaScript, just by addin
 
 Add `data-hover="dropdown"` in addition (or in place of) Bootstrap's `data-toggle="dropdown"`.
 
-You can set options via data-attributes, too, via `data-delay` and `data-close-others`. Here's an example of markup:
+You can set options via data-attributes, too, via `data-delay`, `data-close-others`, and `data-hover-delay`. Here's an example of markup:
 
 ```html
 <li class="dropdown">
